@@ -11,8 +11,8 @@ This is a Flappy Bird game made in python using pygame.
 5. Use Space to jump. Enjoy playing!
 
 ## Screenshots
-<img src="./screenshot-01" alt="Screenshot-01">
-<img src="./screenshot-02" alt="Screenshot-02">
+<img src="screenshot-01" alt="Screenshot-01">
+<img src="screenshot-02" alt="Screenshot-02">
 
 ## Contribution
 If you have any ideas to make the game better, feel free to contribute!
