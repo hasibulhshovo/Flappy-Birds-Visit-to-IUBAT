@@ -1,7 +1,7 @@
 # Flappy-Birds-Visit-to-IUBAT
 
 ## Description:
-This is a Flappy Bird game made in python using pygame.
+This is a Flappy Bird game made in python using pygame. I have used angry bird instead of flappy bird for an assignment.
 
 ## How to play
 1. Install Python 3.8.X from [here](https://www.python.org/downloads/)
